@@ -1,0 +1,62 @@
+body{
+  color: rgb(210, 0, 0);
+  font-family: 'Press Start 2P', sans-serif;
+  
+} 
+h1 {
+    text-align: center;
+    font-weight: normal;
+    color: rgb(210, 0, 0);
+    font-family: 'Press Start 2P', sans-serif;
+    background: rgba(0, 0, 0, 0.5);
+    font-size: 5em;   
+}
+p{
+  color: #B22222;
+  font-family:'VT323', sans-serif;
+  font-size: 25px;
+  background: rgba(0, 0, 0, 0.5);
+}
+li{
+  color: #B22222;
+  font-family:'VT323', sans-serif;
+  font-size: 25px;
+  background: rgba(0, 0, 0, 0.5);
+}
+.link-button {
+  display: inline-block;
+  padding: 10px 20px;
+  color: red;
+  font-size: 18px;
+  font-family: 'Press Start 2P', cursive;
+  text-decoration: none;
+  border: 2px solid red;
+  border-radius: 5px;
+  background: black;
+  transition: 0.5s;
+}
+
+.link-button:hover {
+  background-color: red;
+  color: black;
+  box-shadow: 0 0 10px red;
+}
+div{
+  background: rgba(0, 0, 0, 0.5);
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+th{
+  font-size: 20px
+}
+tr{
+  border-radius: 20px;
+  border-color: rgb(255, 255, 255)
+}
+.alt{
+  font-size:20px;
+}
